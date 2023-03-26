@@ -1,0 +1,6 @@
+com.portfolio.demo
+com.portfolio.demo.Controller
+com.portfolio.demo.Entity
+com.portfolio.demo.Interface
+com.portfolio.demo.Repository
+com.portfolio.demo.Service
